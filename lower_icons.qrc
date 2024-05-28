@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backwards.png</file>
+        <file>binicon.png</file>
+        <file>feature.png</file>
+        <file>forwards.png</file>
+        <file>fullscreen.png</file>
+        <file>love.png</file>
+        <file>muteicon.png</file>
+        <file>pauseicon.png</file>
+        <file>replay.png</file>
+        <file>searchicon.png</file>
+        <file>shareicon.png</file>
+        <file>volumeicon.png</file>
+        <file>whitereplay.png</file>
+        <file>play.png</file>
+    </qresource>
+</RCC>
